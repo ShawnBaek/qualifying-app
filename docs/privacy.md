@@ -4,7 +4,7 @@ _Last updated: November 22, 2026_
 
 Qualifying: Lap Timer does not collect, sell or share any personal data.
 
-- **No accounts, analytics or tracking.**
+- **No accounts and no tracking.** The developer runs no analytics of its own.
 - **One app recommendation for free users.** On iPhone and iPad, Settings
   shows one card from [Kickstart Exchange](https://exchange.kickstart.tools),
   a cross-promotion service for independent apps. It is hidden with
